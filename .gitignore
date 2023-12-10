@@ -3,4 +3,4 @@
 *.swo
 # AoC inputs / examples 
 input.txt
-example.txt
+example*.txt
